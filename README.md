@@ -1,3 +1,3 @@
-# starter-joey-thinkful
+# joey-thinkful
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+This repo contains my finished solution for 4.1.6 Knowledge Check: Navigation.
